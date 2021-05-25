@@ -1,0 +1,6 @@
+module Pods_lancarMobile_lancarMobileTests {
+  umbrella header "Pods-lancarMobile-lancarMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
